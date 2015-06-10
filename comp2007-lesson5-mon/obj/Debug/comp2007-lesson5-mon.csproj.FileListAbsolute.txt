@@ -1,0 +1,10 @@
+C:\Users\HRVOJE\Desktop\comp2007-lesson5-mon-master\comp2007-lesson5-mon\bin\comp2007-lesson5-mon.dll.config
+C:\Users\HRVOJE\Desktop\comp2007-lesson5-mon-master\comp2007-lesson5-mon\bin\comp2007-lesson5-mon.dll
+C:\Users\HRVOJE\Desktop\comp2007-lesson5-mon-master\comp2007-lesson5-mon\bin\comp2007-lesson5-mon.pdb
+C:\Users\HRVOJE\Desktop\comp2007-lesson5-mon-master\comp2007-lesson5-mon\bin\EntityFramework.dll
+C:\Users\HRVOJE\Desktop\comp2007-lesson5-mon-master\comp2007-lesson5-mon\bin\EntityFramework.SqlServer.dll
+C:\Users\HRVOJE\Desktop\comp2007-lesson5-mon-master\comp2007-lesson5-mon\bin\EntityFramework.xml
+C:\Users\HRVOJE\Desktop\comp2007-lesson5-mon-master\comp2007-lesson5-mon\bin\EntityFramework.SqlServer.xml
+C:\Users\HRVOJE\Desktop\comp2007-lesson5-mon-master\comp2007-lesson5-mon\obj\Debug\comp2007-lesson5-mon.csprojResolveAssemblyReference.cache
+C:\Users\HRVOJE\Desktop\comp2007-lesson5-mon-master\comp2007-lesson5-mon\obj\Debug\comp2007-lesson5-mon.dll
+C:\Users\HRVOJE\Desktop\comp2007-lesson5-mon-master\comp2007-lesson5-mon\obj\Debug\comp2007-lesson5-mon.pdb
